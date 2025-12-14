@@ -1,8 +1,8 @@
 # REQUIRED CONFIG
-BOT_TOKEN = ""
-OWNER_ID = 0
-TELEGRAM_API = 0
-TELEGRAM_HASH = ""
+BOT_TOKEN = "7798965695:AAGM20m66mPb0IGbr7UBm_MyRzH01qNjc0I"                              # Require restart after changing it while bot running
+OWNER_ID = "5170995259"                               # Require restart after changing it while bot running
+TELEGRAM_API = "29802408"                           # Require restart after changing it while bot running
+TELEGRAM_HASH = "a6f4235751213eb700d6ef19be1a4135"                          # Require restart after changing it while bot running
 DATABASE_URL = ""
 
 # OPTIONAL CONFIG
@@ -12,7 +12,7 @@ TG_PROXY = (
 )  # {"scheme": ”socks5”, "hostname": ””, "port": 1234, "username": ”user”, "password": ”pass”}
 USER_SESSION_STRING = ""
 CMD_SUFFIX = ""
-AUTHORIZED_CHATS = ""
+AUTHORIZED_CHATS = "-1004776115853"                       # Require restart after changing it while bot running
 SUDO_USERS = ""
 STATUS_LIMIT = 10
 DEFAULT_UPLOAD = "rc"
@@ -43,8 +43,8 @@ DISABLE_SEED = False
 DISABLE_FF_MODE = False
 
 # Telegraph
-AUTHOR_NAME = "WZML-X"
-AUTHOR_URL = "https://t.me/WZML_X"
+AUTHOR_NAME = "M4U"
+AUTHOR_URL = "https://t.me/Movies_arena_4u"
 
 # Task Limits
 DIRECT_LIMIT = 0
@@ -97,7 +97,7 @@ VERIFY_TIMEOUT = 0
 LOGIN_PASS = ""
 
 # Bot Settings
-BOT_PM = False
+BOT_PM = True
 SET_COMMANDS = True
 TIMEZONE = "Asia/Kolkata"
 
@@ -156,7 +156,7 @@ UPDATE_PKGS = True
 
 # Leech
 LEECH_SPLIT_SIZE = 0
-AS_DOCUMENT = False
+AS_DOCUMENT = True
 EQUAL_SPLITS = False
 MEDIA_GROUP = False
 USER_TRANSMISSION = True
@@ -170,7 +170,8 @@ THUMBNAIL_LAYOUT = ""
 # Log Channels
 LEECH_DUMP_CHAT = ""
 LINKS_LOG_ID = ""
-MIRROR_LOG_ID = ""
+LEECH_LOG_ID = "-1002311622944"
+MIRROR_LOG_ID = "-1002311622944"
 
 # qBittorrent/Aria2c
 TORRENT_TIMEOUT = 0
